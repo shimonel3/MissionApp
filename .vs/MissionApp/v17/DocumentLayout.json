@@ -1,0 +1,513 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shimo\\source\\repos\\MissionApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5595085B-2463-4F11-9180-67753AC4B565}|MissionApp\\MissionApp.csproj|c:\\users\\shimo\\source\\repos\\missionapp\\missionapp\\controllers\\missioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5595085B-2463-4F11-9180-67753AC4B565}|MissionApp\\MissionApp.csproj|solutionrelative:missionapp\\controllers\\missioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5595085B-2463-4F11-9180-67753AC4B565}|MissionApp\\MissionApp.csproj|c:\\users\\shimo\\source\\repos\\missionapp\\missionapp\\entities\\locationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5595085B-2463-4F11-9180-67753AC4B565}|MissionApp\\MissionApp.csproj|solutionrelative:missionapp\\entities\\locationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5595085B-2463-4F11-9180-67753AC4B565}|MissionApp\\MissionApp.csproj|c:\\users\\shimo\\source\\repos\\missionapp\\missionapp\\entities\\mission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5595085B-2463-4F11-9180-67753AC4B565}|MissionApp\\MissionApp.csproj|solutionrelative:missionapp\\entities\\mission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5595085B-2463-4F11-9180-67753AC4B565}|MissionApp\\MissionApp.csproj|c:\\users\\shimo\\source\\repos\\missionapp\\missionapp\\entities\\missiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5595085B-2463-4F11-9180-67753AC4B565}|MissionApp\\MissionApp.csproj|solutionrelative:missionapp\\entities\\missiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5595085B-2463-4F11-9180-67753AC4B565}|MissionApp\\MissionApp.csproj|c:\\users\\shimo\\source\\repos\\missionapp\\missionapp\\exceptions\\missionexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5595085B-2463-4F11-9180-67753AC4B565}|MissionApp\\MissionApp.csproj|solutionrelative:missionapp\\exceptions\\missionexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5595085B-2463-4F11-9180-67753AC4B565}|MissionApp\\MissionApp.csproj|c:\\users\\shimo\\source\\repos\\missionapp\\missionapp\\exceptions\\validationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5595085B-2463-4F11-9180-67753AC4B565}|MissionApp\\MissionApp.csproj|solutionrelative:missionapp\\exceptions\\validationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5595085B-2463-4F11-9180-67753AC4B565}|MissionApp\\MissionApp.csproj|c:\\users\\shimo\\source\\repos\\missionapp\\missionapp\\managers\\mongodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5595085B-2463-4F11-9180-67753AC4B565}|MissionApp\\MissionApp.csproj|solutionrelative:missionapp\\managers\\mongodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5595085B-2463-4F11-9180-67753AC4B565}|MissionApp\\MissionApp.csproj|c:\\users\\shimo\\source\\repos\\missionapp\\missionapp\\managers\\indexmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5595085B-2463-4F11-9180-67753AC4B565}|MissionApp\\MissionApp.csproj|solutionrelative:missionapp\\managers\\indexmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5595085B-2463-4F11-9180-67753AC4B565}|MissionApp\\MissionApp.csproj|c:\\users\\shimo\\source\\repos\\missionapp\\missionapp\\service\\missionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5595085B-2463-4F11-9180-67753AC4B565}|MissionApp\\MissionApp.csproj|solutionrelative:missionapp\\service\\missionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5595085B-2463-4F11-9180-67753AC4B565}|MissionApp\\MissionApp.csproj|c:\\users\\shimo\\source\\repos\\missionapp\\missionapp\\service\\locationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5595085B-2463-4F11-9180-67753AC4B565}|MissionApp\\MissionApp.csproj|solutionrelative:missionapp\\service\\locationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5595085B-2463-4F11-9180-67753AC4B565}|MissionApp\\MissionApp.csproj|c:\\users\\shimo\\source\\repos\\missionapp\\missionapp\\service\\mongodbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5595085B-2463-4F11-9180-67753AC4B565}|MissionApp\\MissionApp.csproj|solutionrelative:missionapp\\service\\mongodbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5595085B-2463-4F11-9180-67753AC4B565}|MissionApp\\MissionApp.csproj|c:\\users\\shimo\\source\\repos\\missionapp\\missionapp\\service\\idatabaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5595085B-2463-4F11-9180-67753AC4B565}|MissionApp\\MissionApp.csproj|solutionrelative:missionapp\\service\\idatabaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E86CCBFE-0AD1-4B51-9969-090234B15173}|MissionAppITTests\\MissionAppITTests.csproj|c:\\users\\shimo\\source\\repos\\missionapp\\missionappittests\\customwebapplicationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E86CCBFE-0AD1-4B51-9969-090234B15173}|MissionAppITTests\\MissionAppITTests.csproj|solutionrelative:missionappittests\\customwebapplicationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E86CCBFE-0AD1-4B51-9969-090234B15173}|MissionAppITTests\\MissionAppITTests.csproj|c:\\users\\shimo\\source\\repos\\missionapp\\missionappittests\\mocklocationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E86CCBFE-0AD1-4B51-9969-090234B15173}|MissionAppITTests\\MissionAppITTests.csproj|solutionrelative:missionappittests\\mocklocationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E86CCBFE-0AD1-4B51-9969-090234B15173}|MissionAppITTests\\MissionAppITTests.csproj|c:\\users\\shimo\\source\\repos\\missionapp\\missionappittests\\missionscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E86CCBFE-0AD1-4B51-9969-090234B15173}|MissionAppITTests\\MissionAppITTests.csproj|solutionrelative:missionappittests\\missionscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E86CCBFE-0AD1-4B51-9969-090234B15173}|MissionAppITTests\\MissionAppITTests.csproj|c:\\users\\shimo\\source\\repos\\missionapp\\missionappittests\\missionappittests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E86CCBFE-0AD1-4B51-9969-090234B15173}|MissionAppITTests\\MissionAppITTests.csproj|solutionrelative:missionappittests\\missionappittests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5595085B-2463-4F11-9180-67753AC4B565}|MissionApp\\MissionApp.csproj|c:\\users\\shimo\\source\\repos\\missionapp\\missionapp\\missionapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5595085B-2463-4F11-9180-67753AC4B565}|MissionApp\\MissionApp.csproj|solutionrelative:missionapp\\missionapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5595085B-2463-4F11-9180-67753AC4B565}|MissionApp\\MissionApp.csproj|c:\\users\\shimo\\source\\repos\\missionapp\\missionapp\\mongo-init.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{5595085B-2463-4F11-9180-67753AC4B565}|MissionApp\\MissionApp.csproj|solutionrelative:missionapp\\mongo-init.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5595085B-2463-4F11-9180-67753AC4B565}|MissionApp\\MissionApp.csproj|c:\\users\\shimo\\source\\repos\\missionapp\\missionapp\\service\\ilocationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5595085B-2463-4F11-9180-67753AC4B565}|MissionApp\\MissionApp.csproj|solutionrelative:missionapp\\service\\ilocationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5595085B-2463-4F11-9180-67753AC4B565}|MissionApp\\MissionApp.csproj|c:\\users\\shimo\\source\\repos\\missionapp\\missionapp\\validations\\missioncreationvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5595085B-2463-4F11-9180-67753AC4B565}|MissionApp\\MissionApp.csproj|solutionrelative:missionapp\\validations\\missioncreationvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A13C97E8-87B7-4CC1-8B24-F02AE46EAC65}|MissionAppTests\\MissionAppTests.csproj|c:\\users\\shimo\\source\\repos\\missionapp\\missionapptests\\missionapptests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A13C97E8-87B7-4CC1-8B24-F02AE46EAC65}|MissionAppTests\\MissionAppTests.csproj|solutionrelative:missionapptests\\missionapptests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5595085B-2463-4F11-9180-67753AC4B565}|MissionApp\\MissionApp.csproj|c:\\users\\shimo\\source\\repos\\missionapp\\missionapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5595085B-2463-4F11-9180-67753AC4B565}|MissionApp\\MissionApp.csproj|solutionrelative:missionapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A13C97E8-87B7-4CC1-8B24-F02AE46EAC65}|MissionAppTests\\MissionAppTests.csproj|c:\\users\\shimo\\source\\repos\\missionapp\\missionapptests\\validationserviceunitests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A13C97E8-87B7-4CC1-8B24-F02AE46EAC65}|MissionAppTests\\MissionAppTests.csproj|solutionrelative:missionapptests\\validationserviceunitests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5595085B-2463-4F11-9180-67753AC4B565}|MissionApp\\MissionApp.csproj|c:\\users\\shimo\\source\\repos\\missionapp\\missionapp\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5595085B-2463-4F11-9180-67753AC4B565}|MissionApp\\MissionApp.csproj|solutionrelative:missionapp\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5595085B-2463-4F11-9180-67753AC4B565}|MissionApp\\MissionApp.csproj|c:\\users\\shimo\\source\\repos\\missionapp\\missionapp\\missionapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{5595085B-2463-4F11-9180-67753AC4B565}|MissionApp\\MissionApp.csproj|solutionrelative:missionapp\\missionapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5595085B-2463-4F11-9180-67753AC4B565}|MissionApp\\MissionApp.csproj|c:\\users\\shimo\\source\\repos\\missionapp\\missionapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5595085B-2463-4F11-9180-67753AC4B565}|MissionApp\\MissionApp.csproj|solutionrelative:missionapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5595085B-2463-4F11-9180-67753AC4B565}|MissionApp\\MissionApp.csproj|c:\\users\\shimo\\source\\repos\\missionapp\\missionapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5595085B-2463-4F11-9180-67753AC4B565}|MissionApp\\MissionApp.csproj|solutionrelative:missionapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5595085B-2463-4F11-9180-67753AC4B565}|MissionApp\\MissionApp.csproj|c:\\users\\shimo\\source\\repos\\missionapp\\missionapp\\missionapp.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{5595085B-2463-4F11-9180-67753AC4B565}|MissionApp\\MissionApp.csproj|solutionrelative:missionapp\\missionapp.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5595085B-2463-4F11-9180-67753AC4B565}|MissionApp\\MissionApp.csproj|c:\\users\\shimo\\source\\repos\\missionapp\\missionapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5595085B-2463-4F11-9180-67753AC4B565}|MissionApp\\MissionApp.csproj|solutionrelative:missionapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LocationService.cs",
+              "DocumentMoniker": "C:\\Users\\shimo\\source\\repos\\MissionApp\\MissionApp\\Service\\LocationService.cs",
+              "RelativeDocumentMoniker": "MissionApp\\Service\\LocationService.cs",
+              "ToolTip": "C:\\Users\\shimo\\source\\repos\\MissionApp\\MissionApp\\Service\\LocationService.cs",
+              "RelativeToolTip": "MissionApp\\Service\\LocationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T09:53:49.871Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MissionService.cs",
+              "DocumentMoniker": "C:\\Users\\shimo\\source\\repos\\MissionApp\\MissionApp\\Service\\MissionService.cs",
+              "RelativeDocumentMoniker": "MissionApp\\Service\\MissionService.cs",
+              "ToolTip": "C:\\Users\\shimo\\source\\repos\\MissionApp\\MissionApp\\Service\\MissionService.cs",
+              "RelativeToolTip": "MissionApp\\Service\\MissionService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T18:45:35.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IndexManager.cs",
+              "DocumentMoniker": "C:\\Users\\shimo\\source\\repos\\MissionApp\\MissionApp\\Managers\\IndexManager.cs",
+              "RelativeDocumentMoniker": "MissionApp\\Managers\\IndexManager.cs",
+              "ToolTip": "C:\\Users\\shimo\\source\\repos\\MissionApp\\MissionApp\\Managers\\IndexManager.cs",
+              "RelativeToolTip": "MissionApp\\Managers\\IndexManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T07:39:50.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MongoDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\shimo\\source\\repos\\MissionApp\\MissionApp\\Managers\\MongoDbContext.cs",
+              "RelativeDocumentMoniker": "MissionApp\\Managers\\MongoDbContext.cs",
+              "ToolTip": "C:\\Users\\shimo\\source\\repos\\MissionApp\\MissionApp\\Managers\\MongoDbContext.cs",
+              "RelativeToolTip": "MissionApp\\Managers\\MongoDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T07:35:23.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ValidationException.cs",
+              "DocumentMoniker": "C:\\Users\\shimo\\source\\repos\\MissionApp\\MissionApp\\Exceptions\\ValidationException.cs",
+              "RelativeDocumentMoniker": "MissionApp\\Exceptions\\ValidationException.cs",
+              "ToolTip": "C:\\Users\\shimo\\source\\repos\\MissionApp\\MissionApp\\Exceptions\\ValidationException.cs",
+              "RelativeToolTip": "MissionApp\\Exceptions\\ValidationException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T18:27:43.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MissionException.cs",
+              "DocumentMoniker": "C:\\Users\\shimo\\source\\repos\\MissionApp\\MissionApp\\Exceptions\\MissionException.cs",
+              "RelativeDocumentMoniker": "MissionApp\\Exceptions\\MissionException.cs",
+              "ToolTip": "C:\\Users\\shimo\\source\\repos\\MissionApp\\MissionApp\\Exceptions\\MissionException.cs",
+              "RelativeToolTip": "MissionApp\\Exceptions\\MissionException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T19:35:04.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MissionDTO.cs",
+              "DocumentMoniker": "C:\\Users\\shimo\\source\\repos\\MissionApp\\MissionApp\\Entities\\MissionDTO.cs",
+              "RelativeDocumentMoniker": "MissionApp\\Entities\\MissionDTO.cs",
+              "ToolTip": "C:\\Users\\shimo\\source\\repos\\MissionApp\\MissionApp\\Entities\\MissionDTO.cs",
+              "RelativeToolTip": "MissionApp\\Entities\\MissionDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T20:04:44.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Mission.cs",
+              "DocumentMoniker": "C:\\Users\\shimo\\source\\repos\\MissionApp\\MissionApp\\Entities\\Mission.cs",
+              "RelativeDocumentMoniker": "MissionApp\\Entities\\Mission.cs",
+              "ToolTip": "C:\\Users\\shimo\\source\\repos\\MissionApp\\MissionApp\\Entities\\Mission.cs",
+              "RelativeToolTip": "MissionApp\\Entities\\Mission.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T07:14:28.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LocationDTO.cs",
+              "DocumentMoniker": "C:\\Users\\shimo\\source\\repos\\MissionApp\\MissionApp\\Entities\\LocationDTO.cs",
+              "RelativeDocumentMoniker": "MissionApp\\Entities\\LocationDTO.cs",
+              "ToolTip": "C:\\Users\\shimo\\source\\repos\\MissionApp\\MissionApp\\Entities\\LocationDTO.cs",
+              "RelativeToolTip": "MissionApp\\Entities\\LocationDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T14:59:30.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MissionController.cs",
+              "DocumentMoniker": "C:\\Users\\shimo\\source\\repos\\MissionApp\\MissionApp\\Controllers\\MissionController.cs",
+              "RelativeDocumentMoniker": "MissionApp\\Controllers\\MissionController.cs",
+              "ToolTip": "C:\\Users\\shimo\\source\\repos\\MissionApp\\MissionApp\\Controllers\\MissionController.cs",
+              "RelativeToolTip": "MissionApp\\Controllers\\MissionController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T20:02:54.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MongoDBService.cs",
+              "DocumentMoniker": "C:\\Users\\shimo\\source\\repos\\MissionApp\\MissionApp\\Service\\MongoDBService.cs",
+              "RelativeDocumentMoniker": "MissionApp\\Service\\MongoDBService.cs",
+              "ToolTip": "C:\\Users\\shimo\\source\\repos\\MissionApp\\MissionApp\\Service\\MongoDBService.cs",
+              "RelativeToolTip": "MissionApp\\Service\\MongoDBService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T06:27:19.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IDatabaseService.cs",
+              "DocumentMoniker": "C:\\Users\\shimo\\source\\repos\\MissionApp\\MissionApp\\Service\\IDatabaseService.cs",
+              "RelativeDocumentMoniker": "MissionApp\\Service\\IDatabaseService.cs",
+              "ToolTip": "C:\\Users\\shimo\\source\\repos\\MissionApp\\MissionApp\\Service\\IDatabaseService.cs",
+              "RelativeToolTip": "MissionApp\\Service\\IDatabaseService.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T21:49:45.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CustomWebApplicationFactory.cs",
+              "DocumentMoniker": "C:\\Users\\shimo\\source\\repos\\MissionApp\\MissionAppITTests\\CustomWebApplicationFactory.cs",
+              "RelativeDocumentMoniker": "MissionAppITTests\\CustomWebApplicationFactory.cs",
+              "ToolTip": "C:\\Users\\shimo\\source\\repos\\MissionApp\\MissionAppITTests\\CustomWebApplicationFactory.cs",
+              "RelativeToolTip": "MissionAppITTests\\CustomWebApplicationFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T23:50:34.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MockLocationService.cs",
+              "DocumentMoniker": "C:\\Users\\shimo\\source\\repos\\MissionApp\\MissionAppITTests\\MockLocationService.cs",
+              "RelativeDocumentMoniker": "MissionAppITTests\\MockLocationService.cs",
+              "ToolTip": "C:\\Users\\shimo\\source\\repos\\MissionApp\\MissionAppITTests\\MockLocationService.cs",
+              "RelativeToolTip": "MissionAppITTests\\MockLocationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T00:54:37.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MissionsControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\shimo\\source\\repos\\MissionApp\\MissionAppITTests\\MissionsControllerTests.cs",
+              "RelativeDocumentMoniker": "MissionAppITTests\\MissionsControllerTests.cs",
+              "ToolTip": "C:\\Users\\shimo\\source\\repos\\MissionApp\\MissionAppITTests\\MissionsControllerTests.cs",
+              "RelativeToolTip": "MissionAppITTests\\MissionsControllerTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T23:47:14.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MissionAppITTests",
+              "DocumentMoniker": "C:\\Users\\shimo\\source\\repos\\MissionApp\\MissionAppITTests\\MissionAppITTests.csproj",
+              "RelativeDocumentMoniker": "MissionAppITTests\\MissionAppITTests.csproj",
+              "ToolTip": "C:\\Users\\shimo\\source\\repos\\MissionApp\\MissionAppITTests\\MissionAppITTests.csproj",
+              "RelativeToolTip": "MissionAppITTests\\MissionAppITTests.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-13T23:46:11.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MissionApp.csproj",
+              "DocumentMoniker": "C:\\Users\\shimo\\source\\repos\\MissionApp\\MissionApp\\MissionApp.csproj",
+              "RelativeDocumentMoniker": "MissionApp\\MissionApp.csproj",
+              "ToolTip": "C:\\Users\\shimo\\source\\repos\\MissionApp\\MissionApp\\MissionApp.csproj",
+              "RelativeToolTip": "MissionApp\\MissionApp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-12T06:29:32.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "mongo-init.js",
+              "DocumentMoniker": "C:\\Users\\shimo\\source\\repos\\MissionApp\\MissionApp\\mongo-init.js",
+              "RelativeDocumentMoniker": "MissionApp\\mongo-init.js",
+              "ToolTip": "C:\\Users\\shimo\\source\\repos\\MissionApp\\MissionApp\\mongo-init.js",
+              "RelativeToolTip": "MissionApp\\mongo-init.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-13T22:11:28.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ILocationService.cs",
+              "DocumentMoniker": "C:\\Users\\shimo\\source\\repos\\MissionApp\\MissionApp\\Service\\ILocationService.cs",
+              "RelativeDocumentMoniker": "MissionApp\\Service\\ILocationService.cs",
+              "ToolTip": "C:\\Users\\shimo\\source\\repos\\MissionApp\\MissionApp\\Service\\ILocationService.cs",
+              "RelativeToolTip": "MissionApp\\Service\\ILocationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T00:48:29.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MissionCreationValidator.cs",
+              "DocumentMoniker": "C:\\Users\\shimo\\source\\repos\\MissionApp\\MissionApp\\Validations\\MissionCreationValidator.cs",
+              "RelativeDocumentMoniker": "MissionApp\\Validations\\MissionCreationValidator.cs",
+              "ToolTip": "C:\\Users\\shimo\\source\\repos\\MissionApp\\MissionApp\\Validations\\MissionCreationValidator.cs",
+              "RelativeToolTip": "MissionApp\\Validations\\MissionCreationValidator.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwAsAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T18:49:56.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MissionAppTests",
+              "DocumentMoniker": "C:\\Users\\shimo\\source\\repos\\MissionApp\\MissionAppTests\\MissionAppTests.csproj",
+              "RelativeDocumentMoniker": "MissionAppTests\\MissionAppTests.csproj",
+              "ToolTip": "C:\\Users\\shimo\\source\\repos\\MissionApp\\MissionAppTests\\MissionAppTests.csproj",
+              "RelativeToolTip": "MissionAppTests\\MissionAppTests.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-13T23:40:54.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shimo\\source\\repos\\MissionApp\\MissionApp\\Program.cs",
+              "RelativeDocumentMoniker": "MissionApp\\Program.cs",
+              "ToolTip": "C:\\Users\\shimo\\source\\repos\\MissionApp\\MissionApp\\Program.cs",
+              "RelativeToolTip": "MissionApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T20:11:33.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ValidationServiceUnitests.cs",
+              "DocumentMoniker": "C:\\Users\\shimo\\source\\repos\\MissionApp\\MissionAppTests\\ValidationServiceUnitests.cs",
+              "RelativeDocumentMoniker": "MissionAppTests\\ValidationServiceUnitests.cs",
+              "ToolTip": "C:\\Users\\shimo\\source\\repos\\MissionApp\\MissionAppTests\\ValidationServiceUnitests.cs",
+              "RelativeToolTip": "MissionAppTests\\ValidationServiceUnitests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T21:33:55.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\shimo\\source\\repos\\MissionApp\\MissionApp\\Dockerfile",
+              "RelativeDocumentMoniker": "MissionApp\\Dockerfile",
+              "ToolTip": "C:\\Users\\shimo\\source\\repos\\MissionApp\\MissionApp\\Dockerfile",
+              "RelativeToolTip": "MissionApp\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-13T22:06:40.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\shimo\\source\\repos\\MissionApp\\MissionApp\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "MissionApp\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\shimo\\source\\repos\\MissionApp\\MissionApp\\appsettings.Development.json",
+              "RelativeToolTip": "MissionApp\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-11T20:19:54.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "MissionApp",
+              "DocumentMoniker": "C:\\Users\\shimo\\source\\repos\\MissionApp\\MissionApp\\MissionApp.csproj",
+              "RelativeDocumentMoniker": "MissionApp\\MissionApp.csproj",
+              "ToolTip": "C:\\Users\\shimo\\source\\repos\\MissionApp\\MissionApp\\MissionApp.csproj",
+              "RelativeToolTip": "MissionApp\\MissionApp.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-11T20:11:55.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\shimo\\source\\repos\\MissionApp\\MissionApp\\appsettings.json",
+              "RelativeDocumentMoniker": "MissionApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\shimo\\source\\repos\\MissionApp\\MissionApp\\appsettings.json",
+              "RelativeToolTip": "MissionApp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-11T20:00:17.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "MissionApp.http",
+              "DocumentMoniker": "C:\\Users\\shimo\\source\\repos\\MissionApp\\MissionApp\\MissionApp.http",
+              "RelativeDocumentMoniker": "MissionApp\\MissionApp.http",
+              "ToolTip": "C:\\Users\\shimo\\source\\repos\\MissionApp\\MissionApp\\MissionApp.http",
+              "RelativeToolTip": "MissionApp\\MissionApp.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-07-11T19:59:23.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\shimo\\source\\repos\\MissionApp\\MissionApp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "MissionApp\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\shimo\\source\\repos\\MissionApp\\MissionApp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "MissionApp\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-11T20:11:58.725Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
