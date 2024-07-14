@@ -26,7 +26,7 @@ public class MissionsControllerTests : IClassFixture<CustomWebApplicationFactory
 
         var content = new StringContent(JsonConvert.SerializeObject(missionRequest), Encoding.UTF8, "application/json");
 
-        var response = await _client.PostAsync("/Missions", content);
+        var response = await _client.PostAsync("/Mission", content);
 
         response.EnsureSuccessStatusCode();
 
@@ -43,7 +43,7 @@ public class MissionsControllerTests : IClassFixture<CustomWebApplicationFactory
         };
 
         var content = new StringContent(JsonConvert.SerializeObject(locationRequest), Encoding.UTF8, "application/json");
-        var response = await _client.PostAsync("/FindClosestMission", content);
+        var response = await _client.PostAsync("/find-closest", content);
         response.EnsureSuccessStatusCode();
         var mission = JsonConvert.DeserializeObject<Mission>(await response.Content.ReadAsStringAsync());
         Assert.NotNull(mission);
@@ -54,7 +54,7 @@ public class MissionsControllerTests : IClassFixture<CustomWebApplicationFactory
     public async Task FindIsolatedAgents()
     {
 
-        var response = await _client.GetAsync("/GetMostIsolatedCountry");
+        var response = await _client.GetAsync("/countries-by-isolation");
         response.EnsureSuccessStatusCode();
         var country = await response.Content.ReadAsStringAsync();
         Assert.NotNull(country);
