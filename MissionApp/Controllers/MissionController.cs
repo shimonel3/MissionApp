@@ -6,19 +6,19 @@ namespace MissionApp.Controllers
 {
     [ApiController]
     [Route("[controller]")]
-    public class MissionsController : ControllerBase
+    public class MissionController : ControllerBase
     {
         private IDatabaseService _dbService;
         private ILocationService _locationService;
         private MissionService _missionService;
-        public MissionsController(IDatabaseService dbService, ILocationService locationService, MissionService missionService)
+        public MissionController(IDatabaseService dbService, ILocationService locationService, MissionService missionService)
         {
             _dbService = dbService;
             _locationService = locationService;
             _missionService = missionService;
         }
 
-        [HttpPost("/FindClosestMission")]
+        [HttpPost("/find-closest")]
         public ActionResult<Mission> FindClosestMission([FromBody] LocationDTO address)
         {
             try
@@ -36,7 +36,7 @@ namespace MissionApp.Controllers
             }
         }
 
-        [HttpGet("/GetMostIsolatedCountry")]
+        [HttpGet("/countries-by-isolation")]
         public ActionResult<string> GetMostIsolatedCountry()
         {
             string? country = _dbService.GetMostIsolatedCountry();
